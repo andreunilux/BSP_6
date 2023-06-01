@@ -10,6 +10,8 @@ content. I use large lanuage models based on the BERT architecture to tackle thi
 
 1. HateBert: https://huggingface.co/GroNLP/hateBERT
 2. Bert Base uncased: https://huggingface.co/bert-base-uncased
+3. RoBERTa: https://huggingface.co/roberta-base
+4. Facebook Hate RoBERTa: https://huggingface.co/facebook/roberta-hate-speech-dynabench-r4-target
 
 ## Dataset for Training and Testing:
 1. [data/gold](https://github.com/xinchenyu/counter_context/tree/main/data/gold)
